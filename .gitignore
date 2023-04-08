@@ -1,0 +1,2 @@
+# include everything except this directory 
+/file2.txt
